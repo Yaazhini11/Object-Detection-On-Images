@@ -1,0 +1,62 @@
+body{
+background-size: cover;
+}
+
+#heading{
+    background-color: orange;
+    width: fit-content;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+}
+
+#Vehicile,#Shuttle,#Clock,#Speaker,#tv{
+    background-color: white;
+    width: 500px;
+    border-color:black;
+    border-radius: 20px;
+    padding: 10px;
+    font-size:20px;
+    margin-top: 30px;
+}
+
+#back1{
+    text-align: right;
+    margin-left: 1330px;
+    margin-top: 10px;
+    font-size: 30px;
+    background-color: coral;
+    color: white;
+
+    padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+#lab{
+  margin-left: 600px;
+  background-color: chartreuse;
+  padding: 5px;
+  font-size: 30px;
+  border-radius: 10px;
+}
+
+ canvas{
+   border-width: 3px;
+   border-color: #ff0000;
+   box-shadow: 10px 10px 10px orange;
+    border-radius: 10px;
+ }
